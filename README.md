@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💫 About Me:
-👋 Hi there! I’m Dae, a 2nd-year Computer Science student. <br>
+👋 Hi there! I’m Dae, a 3rd-year Computer Science student. <br>
 🌱 I’m really passionate about Artificial Intelligence and all other aspects of computing. <br>
 
 ## 🌐 Socials:
