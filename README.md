@@ -12,11 +12,13 @@ You can click the Preview link to take a look at your changes.
 
 ## 💫 About Me:
 👋 Hi there! I’m Dae, a 3rd-year Computer Science student. <br>
+I'm looking for a graduate role commencing in early 2026.
 🌱 I’m really passionate about AI and all other aspects of computing. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daehwan-y) <br>
 📫 Email: daehwan.yeo@student.curtin.edu.au <br>
+📚 Blog: https://dae-y.github.io/ <br>
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) <br>
