@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 💫 About Me:
 👋 Hi there! I’m Dae, a 3rd-year Computer Science student. <br>
-I'm looking for a graduate role commencing in early 2026.
-🌱 I’m really passionate about AI and all other aspects of computing. <br>
+🌱 I'm looking for a graduate role commencing in early 2026. <br>
+❤️ I’m really passionate about AI and all other aspects of computing. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daehwan-y) <br>
