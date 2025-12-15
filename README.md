@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 💫 About Me:
-👋 Hi there! I'm Daehwan Yeo, a final-year Computer Science student at Curtin University in Western Australia.
+👋 Hi there! I'm Daehwan Yeo, a Computer Science Honours student at Curtin University in Western Australia (2026).
 
 🌱 I have a strong foundation in computing, programming, and core CS concepts developed through academic studies and personal exploration. Below are my tech stack badges, reflecting hands-on experience with C, Java, Python, mobile app development, full-stack web development and machine learning. These experiences have equipped me to build modern applications across platforms and to tackle challenges.
 
