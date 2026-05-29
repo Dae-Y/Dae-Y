@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💫 About Me
 
-👋 Hi! I'm Daehwan Yeo, a Computer Science Honours student at Curtin University in Western Australia (2026).
+👋 Hi! I'm Daehwan Yeo, a Computer Science Honours student at Curtin University in Western Australia.
 
 My current focus is AI, computer vision, and high-performance computing. For my Honours research, I’m working on 3D medical image segmentation of coronary arteries from CT angiography data.
 
